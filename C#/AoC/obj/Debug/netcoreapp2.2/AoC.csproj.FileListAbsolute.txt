@@ -64,3 +64,11 @@ C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\07\i
 C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\08\input
 C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\09\input
 C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\09\test_input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\10\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\10\test_input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\11\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\11\test_input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\12\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\12\test_input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\13\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Debug\netcoreapp2.2\13\test_input

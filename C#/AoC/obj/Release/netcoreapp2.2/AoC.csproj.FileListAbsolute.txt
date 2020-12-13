@@ -56,3 +56,15 @@ C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\03
 C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\04\input
 C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\01\test_input
 C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\04\test_input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\05\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\06\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\07\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\08\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\09\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\09\test_input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\10\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\10\test_input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\11\input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\11\test_input
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\obj\Release\netcoreapp2.2\AoC.csprojAssemblyReference.cache
+C:\Users\alexd\GIT\Personal\AdventOfCode2020\C#\AoC\bin\Release\netcoreapp2.2\12\input
